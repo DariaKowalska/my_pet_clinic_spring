@@ -1,7 +1,6 @@
 package com.myproject.pet_clinic_spring.model;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 
 public class Pet {
 
